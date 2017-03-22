@@ -1,0 +1,1 @@
+---manager:  carmonmms.topic:  articleauthor:  rpsqrdms.author:  ryanpums.prod:  powershellkeywords:  powershell,cmdlet,jeams.date:  2016-12-05title:  Just Enough Administrationms.technology:  powershellredirect_url: https://msdn.microsoft.com/powershell/jea/overview---

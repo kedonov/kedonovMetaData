@@ -1,1 +1,15 @@
----manager:  carmonm ms.topic:  article author:  rpsqrd ms.author:  ryanpums.prod:  powershellkeywords:  powershell,cmdlet,jeams.date:  2016-12-05 title:  Just Enough Administrationms.technology:  powershellredirect_url: https://msdn.microsoft.com/powershell/jea/overview---
+---
+manager:  carmonm 
+ms.topic:  metaFile 
+author:  rpsqrd 
+ms.author:  ryanpu
+ms.prod:  powershell
+keywords:  powershell,cmdlet,jea
+ms.date:  2016-12-05 
+title:  Just Enough Administration
+ms.technology:  powershell
+redirect_url: https://msdn.microsoft.com/powershell/jea/overview
+localization_priority: MT
+---
+
+# This is iCMS metadata mapping test
